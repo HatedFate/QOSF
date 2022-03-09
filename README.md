@@ -3,11 +3,13 @@
 **Problem Statement:**
 
 Given a list: [1, 3. 6, 4, 2]
+
 Find the index of the number that adds up to 6.
 
 -------------------------------------------------------
 
 Solutions:
+
 [1, 3, 2] => |11001>
 
 [4, 2] => |00011>
